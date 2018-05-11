@@ -1,0 +1,7 @@
+instance_count = "1"
+instance_type="t2.micro"
+ami="ami-43a15f3e"
+aws_access_key_id="replace your aws access key"
+aws_secret_access_key="replace your aws secret key"
+aws_security_token="replace your secret toket key"
+aws_default_region="us-east-1"
